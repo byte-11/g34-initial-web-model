@@ -1,0 +1,11 @@
+body {
+    background-color: #d6f5f3;
+}
+
+form {
+    border: 1px solid wheat;
+}
+
+button, li {
+    background-color: rebeccapurple;
+}
